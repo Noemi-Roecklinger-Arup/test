@@ -1,3 +1,6 @@
+# New SSL certificate (ARUP)
+newcert.pem.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
